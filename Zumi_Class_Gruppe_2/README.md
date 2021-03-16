@@ -1,5 +1,5 @@
 # Advanced Zumi Class
-Contains Functions like:
+Contains Zumi class with advanced functions, Position class managing (x,y) and direction of zumi and a navigator class for routing:
 - Simple commands like forward, reverse ...
 - Random Walker: Driving Random on street with top cam
 - Drive to Point (x, y): Navigates Zumi through path to nearest point to (x, y)
